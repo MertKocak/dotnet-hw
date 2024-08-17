@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\bin\Debug\net6.0\turDonusumleri.exe
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\bin\Debug\net6.0\turDonusumleri.deps.json
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\bin\Debug\net6.0\turDonusumleri.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\bin\Debug\net6.0\turDonusumleri.dll
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\bin\Debug\net6.0\turDonusumleri.pdb
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.dll
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\refint\turDonusumleri.dll
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.pdb
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\turDonusumleri.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\turDonusumleri\obj\Debug\net6.0\ref\turDonusumleri.dll
