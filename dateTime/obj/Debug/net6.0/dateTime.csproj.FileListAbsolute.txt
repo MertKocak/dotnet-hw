@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\dateTime\bin\Debug\net6.0\dateTime.exe
+C:\Users\MERTK\Desktop\dotnet\dateTime\bin\Debug\net6.0\dateTime.deps.json
+C:\Users\MERTK\Desktop\dotnet\dateTime\bin\Debug\net6.0\dateTime.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\dateTime\bin\Debug\net6.0\dateTime.dll
+C:\Users\MERTK\Desktop\dotnet\dateTime\bin\Debug\net6.0\dateTime.pdb
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.dll
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\refint\dateTime.dll
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.pdb
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\dateTime.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\dateTime\obj\Debug\net6.0\ref\dateTime.dll

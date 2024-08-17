@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\bin\Debug\net6.0\arrayMethods.exe
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\bin\Debug\net6.0\arrayMethods.deps.json
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\bin\Debug\net6.0\arrayMethods.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\bin\Debug\net6.0\arrayMethods.dll
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\bin\Debug\net6.0\arrayMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.dll
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\refint\arrayMethods.dll
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\arrayMethods.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\arrayMethods\obj\Debug\net6.0\ref\arrayMethods.dll
