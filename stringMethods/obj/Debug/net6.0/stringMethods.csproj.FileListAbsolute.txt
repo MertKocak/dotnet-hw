@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\stringMethods\bin\Debug\net6.0\stringMethods.exe
+C:\Users\MERTK\Desktop\dotnet\stringMethods\bin\Debug\net6.0\stringMethods.deps.json
+C:\Users\MERTK\Desktop\dotnet\stringMethods\bin\Debug\net6.0\stringMethods.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\stringMethods\bin\Debug\net6.0\stringMethods.dll
+C:\Users\MERTK\Desktop\dotnet\stringMethods\bin\Debug\net6.0\stringMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.dll
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\refint\stringMethods.dll
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\stringMethods.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\stringMethods\obj\Debug\net6.0\ref\stringMethods.dll
