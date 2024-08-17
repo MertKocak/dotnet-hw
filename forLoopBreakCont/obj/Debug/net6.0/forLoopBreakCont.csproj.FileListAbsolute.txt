@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\bin\Debug\net6.0\forLoopBreakCont.exe
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\bin\Debug\net6.0\forLoopBreakCont.deps.json
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\bin\Debug\net6.0\forLoopBreakCont.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\bin\Debug\net6.0\forLoopBreakCont.dll
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\bin\Debug\net6.0\forLoopBreakCont.pdb
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.dll
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\refint\forLoopBreakCont.dll
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.pdb
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\forLoopBreakCont.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\forLoopBreakCont\obj\Debug\net6.0\ref\forLoopBreakCont.dll
