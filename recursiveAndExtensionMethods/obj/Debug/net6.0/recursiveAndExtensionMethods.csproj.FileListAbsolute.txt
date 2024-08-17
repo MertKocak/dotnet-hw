@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\bin\Debug\net6.0\recursiveAndExtensionMethods.exe
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\bin\Debug\net6.0\recursiveAndExtensionMethods.deps.json
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\bin\Debug\net6.0\recursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\bin\Debug\net6.0\recursiveAndExtensionMethods.dll
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\bin\Debug\net6.0\recursiveAndExtensionMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.dll
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\refint\recursiveAndExtensionMethods.dll
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.pdb
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\recursiveAndExtensionMethods.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\recursiveAndExtensionMethods\obj\Debug\net6.0\ref\recursiveAndExtensionMethods.dll

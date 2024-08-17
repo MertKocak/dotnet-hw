@@ -1,0 +1,15 @@
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\bin\Debug\net6.0\patikaHW1.exe
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\bin\Debug\net6.0\patikaHW1.deps.json
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\bin\Debug\net6.0\patikaHW1.runtimeconfig.json
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\bin\Debug\net6.0\patikaHW1.dll
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\bin\Debug\net6.0\patikaHW1.pdb
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.csproj.AssemblyReference.cache
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.AssemblyInfoInputs.cache
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.AssemblyInfo.cs
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.csproj.CoreCompileInputs.cache
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.dll
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\refint\patikaHW1.dll
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.pdb
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\patikaHW1.genruntimeconfig.cache
+C:\Users\MERTK\Desktop\dotnet\patikaHW1\obj\Debug\net6.0\ref\patikaHW1.dll
